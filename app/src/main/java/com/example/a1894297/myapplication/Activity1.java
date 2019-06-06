@@ -4,7 +4,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class Activity1 extends AppCompatActivity {
-
     private static final String TAG = ;
     EditText edt_name, edt_email, edt_pass;
     Button btn_sub;
@@ -48,6 +47,5 @@ public void onClick(View v){
         }};
 
         }
-        }
-    }
+
 }
